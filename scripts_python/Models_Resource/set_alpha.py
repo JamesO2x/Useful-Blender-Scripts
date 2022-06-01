@@ -1,5 +1,6 @@
-# This script will loop through all the materials in an object, and assign them an ALPHA blending mode,
-# as well as set "backface culling" and other useful performance options for making game models.
+# This script will loop through all the materials in your selected object, 
+# and assign them an ALPHA blending mode, as well as set "backface culling" 
+# and other useful performance options for making game models.
 # 
 # Just select some objects and click RUN SCRIPT.
 # 

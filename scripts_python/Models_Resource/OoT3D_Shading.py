@@ -8,11 +8,6 @@
 #
 # It may take a few minutes for Blender to "compile your shaders"
 # so be patient if the effect isn't immediate.
-#
-# Warning: Only run this script ONCE on your objects.
-# Running this script a second time on the same objects will create
-# multiple duplicate shader nodes.
-
 
 import bpy
 
